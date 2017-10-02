@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Desaparecidos.iml" filepath="$PROJECT_DIR$/Desaparecidos.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appconfig/appconfig.iml" filepath="$PROJECT_DIR$/appconfig/appconfig.iml" />
     </modules>
   </component>
 </project>
