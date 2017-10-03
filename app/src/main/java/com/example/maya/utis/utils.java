@@ -5,5 +5,5 @@ package com.example.maya.utis;
  */
 
 public class utils {
-    public  static  String url="";
+    public  static  String url="http://192.168.0.10:8080/WebServiceM/service/";
 }
